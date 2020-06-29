@@ -1,5 +1,5 @@
 {
-    "name": "ui-utils",
+    "name": "@jessekelly/ui-utils",
     "version": "1.0.0",
     "description": "A collection of useful ui utils for react",
     "main": "dist/index.js",
