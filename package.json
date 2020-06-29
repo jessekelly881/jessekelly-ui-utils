@@ -1,0 +1,27 @@
+{
+    "name": "ui-utils",
+    "version": "1.0.0",
+    "description": "A collection of useful ui utils for react",
+    "main": "dist/index.js",
+    "scripts": {
+        "start": "parcel test/index.html",
+        "build": "parcel build src/index.js"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "react": "^16.13.1",
+        "react-dom": "^16.13.1"
+    },
+    "devDependencies": {
+        "babel-preset-nano-react-app": "^0.1.0",
+        "parcel": "^2.0.0-alpha.3.2"
+    },
+    "alias": {
+        "src": "./src"
+    },
+    "babel": {
+        "presets": [
+            "nano-react-app"
+        ]
+    }
+}
