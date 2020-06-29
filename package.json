@@ -9,8 +9,10 @@
     },
     "license": "MIT",
     "dependencies": {
+        "moment": "^2.27.0",
         "react": "^16.13.1",
-        "react-dom": "^16.13.1"
+        "react-dom": "^16.13.1",
+        "react-use": "^15.3.0"
     },
     "devDependencies": {
         "babel-preset-nano-react-app": "^0.1.0",
