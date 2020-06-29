@@ -10,13 +10,15 @@
     "license": "MIT",
     "dependencies": {
         "moment": "^2.27.0",
+        "normalize.css": "^8.0.1",
         "react": "^16.13.1",
         "react-dom": "^16.13.1",
         "react-use": "^15.3.0"
     },
     "devDependencies": {
         "babel-preset-nano-react-app": "^0.1.0",
-        "parcel": "^2.0.0-alpha.3.2"
+        "parcel": "^2.0.0-alpha.3.2",
+        "sass": "^1.26.9"
     },
     "alias": {
         "src": "./src"
